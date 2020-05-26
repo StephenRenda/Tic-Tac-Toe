@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "homepage": "http://yuribenjamin.github.io/my-app"
+    "homepage": "http://StephenRenda.github.io/Tic-Tac_Toe"
   },
   "scripts": {
     "start": "react-scripts start",
